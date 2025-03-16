@@ -1,0 +1,1 @@
+- The `&^` operator in Go is the bit clear operator, which is used to clear specific bits. It is more idiomatic and correct for this purpose compare to `%~`.
